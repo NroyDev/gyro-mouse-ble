@@ -1,4 +1,4 @@
-# ESP32 BLE 陀螺儀空中滑鼠 (ESP32 BLE Gyro Air Mouse with IoT Health Tracking)
+# gyro-mouse-ble
 
 [![ESP32](https://img.shields.io/badge/Platform-ESP32-blue.svg)](https://www.espressif.com/)
 [![Arduino](https://img.shields.io/badge/Framework-Arduino-00979D.svg)](https://www.arduino.cc/)
